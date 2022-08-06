@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    width: fit-content;
+    margin: auto;
+}
+.para{
+    color: white;
+    background: rgb(76, 105, 235);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
